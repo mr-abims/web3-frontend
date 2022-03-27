@@ -82,7 +82,7 @@ const MyStake = ({
         </form>
       </div>
       <div className={Styles.card}>
-        <h4 className={Styles.cc}>Get Details of staker</h4>
+        <h4 className={Styles.cch4}>Get Details of staker</h4>
         <div className={Styles.cc}>
           <h4>Address Staker</h4>
           <p className={Styles.para}>{address}</p>
